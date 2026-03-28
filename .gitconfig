@@ -1,0 +1,6 @@
+[user]
+	email = Paul202442@outlook.com
+[core]
+	editor = vim
+[color]
+	ui = true
